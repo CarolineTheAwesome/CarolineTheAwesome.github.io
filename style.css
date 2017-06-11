@@ -1,0 +1,42 @@
+/* Fonts from Google Fonts - more at https://fonts.google.com */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+@import url('https://fonts.googleapis.com/css?family=Merriweather:400,700');
+
+body {
+  background-color:black ;
+  font-family: "Open Sans", sans-serif;
+  padding: 5px 25px;
+  font-size: 18px;
+  margin: 0;
+  color: aqua;font-family: cursive;}
+a:visited {
+  color: deepskyblue;
+}/*a:link - a normal, unvisited link
+a:visited - a link the user has visited
+a:hover - a link when the user mouses over it
+a:active - a link the moment it is clicked
+*/a:link {
+  text-decoration: none;
+}
+#wte{
+  font-family: serif}
+a:visited {
+  text-decoration: none;
+}
+a:link{color:red;}
+h1 {
+  font-family:sans-serif;
+  font-size: 32px;
+}
+#all{border: 3px solid rgb(325,325,325);border-color: aquamarine;}
+h1 {
+  font-family:sans-serif;
+  font-size: 32px;
+}
+
+#intro {
+  border: 1px solid ;
+  background-image: url(http://www.factslides.com/imgs/Dolphin2.jpg);
+  overflow: scroll;
+  color: white;}
+a:hover{color:darkmagenta;}
