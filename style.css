@@ -41,7 +41,7 @@ h1 {
 
   background-image: url(http://www.factslides.com/imgs/Dolphin2.jpg)
     ;background-repeat: no-repeat;
-  overflow: scroll;
+
   color: white;}
 a:hover{color:lightskyblue;
 background-color: dimgray}
