@@ -26,7 +26,7 @@ a:active - a link the moment it is clicked
   font-family: serif}
 a:visited {
   text-decoration: none;
-}
+}img{width:120px;}
 a:link{color:red;}
 h1 {
   font-family:sans-serif;
