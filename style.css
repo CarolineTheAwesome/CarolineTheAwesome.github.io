@@ -30,15 +30,12 @@ h1 {
   font-size: 32px;
 }
 #all{border: 3px solid rgb(325,325,325);border-color:coral;}
-h1 {
-  font-family:sans-serif;
-  font-size: 32px;
-}
+
 
 #intro {
 
-  background-image: url(http://www.factslides.com/imgs/Dolphin2.jpg)
-    ;background-repeat: no-repeat;
+  background-image: url('http://www.wallpapermania.eu/images/lthumbs/2012-07/3201_Family-Dolphin-HD-wallpaper.jpg'
+);background-repeat: no-repeat;
   overflow: scroll;
   color: white;}
 a:hover{color:lightskyblue;
