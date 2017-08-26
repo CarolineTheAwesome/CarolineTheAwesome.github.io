@@ -3,18 +3,14 @@
 
 body {
   background-color:black ;
-  font-family: "Open Sans", sans-serif;
-  padding: 5px 25px;
+  font-family: sans-serif;
+
   font-size: 18px;
-  margin: 0;
+
   color: aqua;font-family: cursive;}
 a:visited {
   color: deepskyblue;
-}/*a:link - a normal, unvisited link
-a:visited - a link the user has visited
-a:hover - a link when the user mouses over it
-a:active - a link the moment it is clicked
-*/a:link {
+}a:link {
   text-decoration: none;
 }
 #wte{
@@ -29,12 +25,16 @@ h1 {
   font-size: 32px;
 }
 #all{border: 3px solid rgb(325,325,325);border-color:coral;}
-
+h1 {
+  font-family:sans-serif;
+  font-size: 32px;
+}
 
 #intro {
 
   background-image: url('http://www.wallpapermania.eu/images/lthumbs/2012-07/3201_Family-Dolphin-HD-wallpaper.jpg'
-);background-repeat: no-repeat;
+);
+    background-repeat:no-repeat;
   overflow: scroll;
   color: white;}
 a:hover{color:lightskyblue;
