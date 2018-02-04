@@ -30,12 +30,11 @@ h1 {
   font-size: 32px;
 }
 
-#intro {
+#intro {background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Comdolph.jpg/200px-Comdolph.jpg");
+  background-size: cover;
+  background-repeat:no-repeat;
 
-  background-image: url('http://www.wallpapermania.eu/images/lthumbs/2012-07/3201_Family-Dolphin-HD-wallpaper.jpg'
-);
-    background-repeat:no-repeat;
-  overflow: scroll;
+
   color: white;}
 a:hover{color:lightskyblue;
-background-color: dimgray}
+  background-color: dimgray}
